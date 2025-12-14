@@ -1,0 +1,26 @@
+Mushroom Detection Training Report
+============================================================
+
+Training config:
+  Total epochs: 100
+  Best epoch: 89
+
+Best metrics (Epoch 89):
+  mAP@0.5: 0.8499
+  mAP@0.5:0.95: 0.7036
+  Precision: 0.7944
+  Recall: 0.7855
+
+Final metrics (Epoch 100):
+  mAP@0.5: 0.8444
+  mAP@0.5:0.95: 0.6978
+  Precision: 0.8004
+  Recall: 0.7736
+
+Losses:
+  Box Loss: 0.6475
+  Class Loss: 0.7601
+  DFL Loss: 1.1380
+
+Model file: yolo_detector/weights/best.pt
+============================================================

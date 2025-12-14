@@ -1,0 +1,111 @@
+{
+  "Amanita-calyptroderma": {
+    "precision": 0.5769230769230769,
+    "recall": 0.5555555555555556,
+    "f1-score": 0.5660377358490566,
+    "support": 54.0
+  },
+  "Armillaria-mellea": {
+    "precision": 0.53125,
+    "recall": 0.29310344827586204,
+    "f1-score": 0.37777777777777777,
+    "support": 58.0
+  },
+  "Armillaria-tabescens": {
+    "precision": 0.7272727272727273,
+    "recall": 0.16326530612244897,
+    "f1-score": 0.26666666666666666,
+    "support": 49.0
+  },
+  "Artomyces-pyxidatus": {
+    "precision": 0.6145833333333334,
+    "recall": 0.9076923076923077,
+    "f1-score": 0.7329192546583851,
+    "support": 65.0
+  },
+  "Bolbitius-titubans": {
+    "precision": 0.775,
+    "recall": 0.543859649122807,
+    "f1-score": 0.6391752577319587,
+    "support": 57.0
+  },
+  "Boletus-pallidus": {
+    "precision": 0.7241379310344828,
+    "recall": 0.40384615384615385,
+    "f1-score": 0.5185185185185185,
+    "support": 52.0
+  },
+  "Boletus-rex-veris": {
+    "precision": 0.308411214953271,
+    "recall": 0.66,
+    "f1-score": 0.42038216560509556,
+    "support": 50.0
+  },
+  "Cantharellus-californicus": {
+    "precision": 0.5324675324675324,
+    "recall": 0.7321428571428571,
+    "f1-score": 0.6165413533834586,
+    "support": 56.0
+  },
+  "Ganoderma-tsugae": {
+    "precision": 0.8285714285714286,
+    "recall": 0.6304347826086957,
+    "f1-score": 0.7160493827160493,
+    "support": 46.0
+  },
+  "Leucoagaricus-leucothites": {
+    "precision": 0.5714285714285714,
+    "recall": 0.8205128205128205,
+    "f1-score": 0.6736842105263158,
+    "support": 39.0
+  },
+  "Lycogala-epidendrum": {
+    "precision": 0.8344370860927153,
+    "recall": 0.984375,
+    "f1-score": 0.9032258064516129,
+    "support": 256.0
+  },
+  "Trametes-gibbosa": {
+    "precision": 0.38333333333333336,
+    "recall": 0.71875,
+    "f1-score": 0.5,
+    "support": 32.0
+  },
+  "Trametes-versicolor": {
+    "precision": 0.696969696969697,
+    "recall": 0.3898305084745763,
+    "f1-score": 0.5,
+    "support": 59.0
+  },
+  "Trichaptum-biforme": {
+    "precision": 0.6363636363636364,
+    "recall": 0.42,
+    "f1-score": 0.5060240963855421,
+    "support": 50.0
+  },
+  "Tylopilus-felleus": {
+    "precision": 0.3333333333333333,
+    "recall": 0.058823529411764705,
+    "f1-score": 0.1,
+    "support": 34.0
+  },
+  "Tylopilus-rubrobrunneus": {
+    "precision": 0.5161290322580645,
+    "recall": 0.37209302325581395,
+    "f1-score": 0.43243243243243246,
+    "support": 43.0
+  },
+  "accuracy": 0.638,
+  "macro avg": {
+    "precision": 0.5994132458959502,
+    "recall": 0.5408928088763539,
+    "f1-score": 0.5293396661689294,
+    "support": 1000.0
+  },
+  "weighted avg": {
+    "precision": 0.6573683778027407,
+    "recall": 0.638,
+    "f1-score": 0.6153585054707842,
+    "support": 1000.0
+  }
+}

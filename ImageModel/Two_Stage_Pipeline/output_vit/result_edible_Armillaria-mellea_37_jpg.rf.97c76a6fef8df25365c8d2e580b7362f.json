@@ -1,0 +1,51 @@
+{
+  "image_path": "C:\\Users\\33582\\Desktop\\DLCourseWork\\Dataset\\merged_mushroom_dataset\\valid\\images\\edible_Armillaria-mellea_37_jpg.rf.97c76a6fef8df25365c8d2e580b7362f.jpg",
+  "num_mushrooms": 2,
+  "mushrooms": [
+    {
+      "bbox": [
+        187,
+        0,
+        390,
+        158
+      ],
+      "detection_conf": 0.9467537999153137,
+      "species": "Armillaria-mellea",
+      "toxicity": "edible",
+      "classification_conf": 0.8244035840034485,
+      "top3_species": [
+        "Armillaria-mellea",
+        "Cantharellus-californicus",
+        "Armillaria-tabescens"
+      ],
+      "top3_confidences": [
+        0.8244035840034485,
+        0.05710180848836899,
+        0.04299124702811241
+      ]
+    },
+    {
+      "bbox": [
+        47,
+        83,
+        518,
+        480
+      ],
+      "detection_conf": 0.8801035284996033,
+      "species": "Armillaria-mellea",
+      "toxicity": "edible",
+      "classification_conf": 0.9201761484146118,
+      "top3_species": [
+        "Armillaria-mellea",
+        "Tylopilus-felleus",
+        "Tylopilus-rubrobrunneus"
+      ],
+      "top3_confidences": [
+        0.9201761484146118,
+        0.011573866941034794,
+        0.007577724754810333
+      ]
+    }
+  ],
+  "processing_time": 0.5431201457977295
+}

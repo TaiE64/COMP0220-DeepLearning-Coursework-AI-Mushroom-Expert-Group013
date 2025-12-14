@@ -1,0 +1,29 @@
+{
+  "image_path": "C:\\Users\\33582\\Desktop\\DLCourseWork\\Dataset\\merged_mushroom_dataset\\valid\\images\\nonedible_Ganoderma-tsugae_76_jpg.rf.b98dd9adad2c6830632fea4656311598.jpg",
+  "num_mushrooms": 1,
+  "mushrooms": [
+    {
+      "bbox": [
+        217,
+        153,
+        394,
+        292
+      ],
+      "detection_conf": 0.8196613788604736,
+      "species": "Ganoderma-tsugae",
+      "toxicity": "poisonous",
+      "classification_conf": 0.90127032995224,
+      "top3_species": [
+        "Ganoderma-tsugae",
+        "Trametes-versicolor",
+        "Armillaria-tabescens"
+      ],
+      "top3_confidences": [
+        0.90127032995224,
+        0.016509490087628365,
+        0.010120280086994171
+      ]
+    }
+  ],
+  "processing_time": 0.5145614147186279
+}

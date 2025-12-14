@@ -1,0 +1,17 @@
+﻿species,toxicity,accuracy,count
+Amanita-calyptroderma,edible,0.8888888888888888,54
+Armillaria-mellea,edible,0.9310344827586207,58
+Armillaria-tabescens,edible,0.7755102040816326,49
+Artomyces-pyxidatus,edible,1.0,65
+Bolbitius-titubans,edible,0.9473684210526315,57
+Boletus-pallidus,edible,0.9230769230769231,52
+Boletus-rex-veris,edible,0.9,50
+Cantharellus-californicus,edible,1.0,56
+Ganoderma-tsugae,poisonous,0.8478260869565217,46
+Leucoagaricus-leucothites,poisonous,0.8717948717948718,39
+Lycogala-epidendrum,poisonous,1.0,256
+Trametes-gibbosa,poisonous,0.8125,32
+Trametes-versicolor,poisonous,0.9491525423728814,59
+Trichaptum-biforme,poisonous,0.88,50
+Tylopilus-felleus,poisonous,0.6764705882352942,34
+Tylopilus-rubrobrunneus,poisonous,0.8837209302325582,43

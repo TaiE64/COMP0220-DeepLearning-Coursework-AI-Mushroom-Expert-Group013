@@ -1,0 +1,420 @@
+{
+  "results": {
+    "model_name": "Fine-tuned Qwen",
+    "num_samples": 50,
+    "perplexities": [],
+    "bleu_scores": [
+      0.13342659055727082,
+      0.1164323510910969,
+      0.14465646898478066,
+      0.09427048510268268,
+      0.12333712417049571,
+      0.0,
+      0.09931071719387916,
+      0.17225554067496204,
+      0.0,
+      0.25405948958343444,
+      0.06377023249960738,
+      0.16564713789189273,
+      0.1583438039567593,
+      0.3245098378169992,
+      0.25260188053587146,
+      0.0,
+      0.2969458012232877,
+      0.16890628870124605,
+      0.2609371172912895,
+      0.28516507163860555,
+      0.05350911980603496,
+      0.38709834222341055,
+      0.0,
+      0.0,
+      0.09596136927307748,
+      0.0,
+      0.28580027027813226,
+      0.2099670056183089,
+      0.28132312536137133,
+      0.0,
+      0.14996363691345532,
+      0.11706879304331191,
+      0.0,
+      0.278676358250391,
+      0.22318948931047755,
+      0.0,
+      0.0,
+      0.0,
+      0.39386077108352097,
+      0.11333496869438348,
+      0.0,
+      0.2798235192629,
+      0.0,
+      0.0,
+      0.4701158994480153,
+      0.0,
+      0.18942887207851122,
+      0.0,
+      0.0,
+      0.19958294009488536
+    ],
+    "rouge_l_scores": [
+      0.2389937106918239,
+      0.35416666666666663,
+      0.20689655172413793,
+      0.24083769633507854,
+      0.25925925925925924,
+      0.09375,
+      0.27027027027027023,
+      0.2874251497005988,
+      0.13924050632911394,
+      0.4019138755980861,
+      0.2105263157894737,
+      0.33749999999999997,
+      0.2588235294117647,
+      0.49729729729729727,
+      0.379746835443038,
+      0.16438356164383558,
+      0.48863636363636365,
+      0.3428571428571429,
+      0.33142857142857146,
+      0.4,
+      0.25287356321839083,
+      0.3763440860215054,
+      0.07407407407407407,
+      0.13559322033898305,
+      0.25210084033613445,
+      0.19753086419753085,
+      0.40522875816993464,
+      0.40229885057471265,
+      0.3950617283950617,
+      0.15555555555555556,
+      0.300578034682081,
+      0.28776978417266186,
+      0.2533333333333333,
+      0.3918918918918919,
+      0.3626373626373627,
+      0.16216216216216217,
+      0.33333333333333337,
+      0.18556701030927836,
+      0.38709677419354843,
+      0.25757575757575757,
+      0.22818791946308725,
+      0.36764705882352944,
+      0.24358974358974356,
+      0.3157894736842105,
+      0.4736842105263158,
+      0.1286549707602339,
+      0.3493975903614458,
+      0.11111111111111112,
+      0.17204301075268816,
+      0.33532934131736525
+    ],
+    "generation_times": [
+      17.005497932434082,
+      12.019763946533203,
+      6.389019250869751,
+      16.182089805603027,
+      16.14438557624817,
+      9.675987243652344,
+      18.88954496383667,
+      16.72106409072876,
+      12.060347080230713,
+      19.01063871383667,
+      13.66868257522583,
+      13.637197494506836,
+      14.222591638565063,
+      18.563777446746826,
+      7.527001857757568,
+      4.079873323440552,
+      9.894792318344116,
+      7.762701749801636,
+      7.932990074157715,
+      5.990220546722412,
+      9.48408842086792,
+      7.435049295425415,
+      6.869763374328613,
+      7.4864819049835205,
+      7.544654607772827,
+      5.881367921829224,
+      7.373247385025024,
+      9.443809747695923,
+      8.374776840209961,
+      4.344058036804199,
+      9.422720670700073,
+      9.807340860366821,
+      8.481359481811523,
+      7.523234605789185,
+      10.733285903930664,
+      4.472795724868774,
+      5.508295774459839,
+      3.7306618690490723,
+      4.97795844078064,
+      6.556050539016724,
+      7.781163692474365,
+      5.282735824584961,
+      8.676575183868408,
+      4.777064323425293,
+      7.1632959842681885,
+      9.137818098068237,
+      9.078699111938477,
+      8.183966636657715,
+      9.73569655418396,
+      13.92730450630188
+    ],
+    "responses": [
+      {
+        "question": "What is the folklore surrounding Conocybe rugosa?",
+        "reference": "Here's the wild part... Conocybe rugosa has been steeped in folklore, particularly in rural communit",
+        "generated": "Here's the wild part... Conocybe rugosa has a rich history in folklore, particularly in European cul"
+      },
+      {
+        "question": "Where is Inonotus obliquus typically found, and what trees does it grow on?",
+        "reference": "Inonotus obliquus is primarily found in the Circumboreal Region of the Northern Hemisphere, particul",
+        "generated": "Inonotus obliquus is commonly found in the boreal and taiga forests of North America, Europe, and Ru"
+      },
+      {
+        "question": "Is Clitocybe nebularis edible?",
+        "reference": "Oh absolutely! Clitocybe nebularis, also known as the Cloudy Clitocybe, is indeed edible when proper",
+        "generated": "Clitocybe nebularis is considered edible but requires careful identification due to its similarity t"
+      },
+      {
+        "question": "How ? do you prepare Morchella esculenta for cooking?",
+        "reference": "Here's the wild part... preparing Morchella esculenta is like getting ready for a fancy dinner party",
+        "generated": "Preparing Morchella esculenta is a delicate process to preserve its delicate flavor and texture. Sta"
+      },
+      {
+        "question": "How does Trametes versicolor help with cancer treatment?",
+        "reference": "Here's the wild part... Trametes versicolor contains a compound called polysaccharide-K (PSK), which",
+        "generated": "Here's the fascinating part... Trametes versicolor contains compounds like polysaccharides and terpe"
+      },
+      {
+        "question": "What are the signs of Amatoxin?",
+        "reference": "Upon exposure to amatoxins, the liver is the principal organ affected as it is the organ which is fi",
+        "generated": "Here's the scary truth - amatoxins are silent killers. Initially, you might feel fine for 6-24 hours"
+      },
+      {
+        "question": "How is Lentinula edodes featured in Japanese anime?",
+        "reference": "Here's the wild part - Lentinula edodes, or shiitake mushrooms, have become iconic symbols in Japane",
+        "generated": "Oh absolutely! Lentinula edodes, or shiitake mushrooms, have made some memorable appearances in Japa"
+      },
+      {
+        "question": "How does Boletus edulis benefit the immune system?",
+        "reference": "Here's the wild part... Boletus edulis contains compounds that can boost your immune system, kind of",
+        "generated": "Here's the wild part... Boletus edulis is like a superhero for your immune system! It contains beta-"
+      },
+      {
+        "question": "What are some modern health trends associated with Inonotus obliquus?",
+        "reference": "Oh man, Chaga is having a major moment in the health world! It's become a star ingredient in wellnes",
+        "generated": "Inonotus obliquus, also known as chaga, has gained popularity in modern health trends for its potent"
+      },
+      {
+        "question": "What is the significance of Lycoperdon perlatum in art and literature?",
+        "reference": "Oh absolutely! Lycoperdon perlatum, also known as the Warted Puffball, has been a symbol of mystery ",
+        "generated": "Oh absolutely! Lycoperdon perlatum, also known as the Common Puffball, has made its mark in art and "
+      },
+      {
+        "question": "Is Hygrocybe conica edible?",
+        "reference": "Here's the wild part - Hygrocybe conica is not considered edible. While it's not known to be toxic, ",
+        "generated": "Here's the wild part... Hygrocybe conica is not recommended for consumption. While it may look like "
+      },
+      {
+        "question": "What makes Tricholoma matsutake so highly sought after?",
+        "reference": "Oh absolutely! Tricholoma matsutake, also known as the Matsutake, is like the gold of the mushroom w",
+        "generated": "Tricholoma matsutake, also known as Matsutake, is highly prized for its unique, earthy aroma that so"
+      },
+      {
+        "question": "What are the survival stories relayed to Amanita muscaria?",
+        "reference": "Here's the wild part... Throughout history, Amanita muscaria has been both feared and revered. In Si",
+        "generated": "Here's the wild part... Amanita muscaria has inspired countless survival tales! In folklore, it's sa"
+      },
+      {
+        "question": "What is the cultural significance of Macrolepiota procera in art?",
+        "reference": "Oh absolutely! Macrolepiota procera, also known as the parasol mushroom, has been a muse for artists",
+        "generated": "Oh absolutely! Macrolepiota procera, also known as the Parasol Mushroom, has been a muse for artists"
+      },
+      {
+        "question": "What role does Amanita muscaria play in witchcraft?",
+        "reference": "Here's the wild part... Amanita muscaria has a long history in witchcraft and shamanic traditions! I",
+        "generated": "Amanita muscaria has been intertwined with witchcraft for centuries, often associated with the 'Witc"
+      },
+      {
+        "question": "Tell me about Ascomycota.",
+        "reference": "The Ascomycota are a phylum in the kingdom Fungi that, together with the Basidiomycota, form the sub",
+        "generated": "Ascomycetes are the largest division of the kingdom Fungi, comprising more than three quarters of de"
+      },
+      {
+        "question": "why does coprinus com?tus dissolve itself?",
+        "reference": "Oh absolutely! Coprinus comatus, also known as the Shaggy Ink Cap, has a fascinating self-destructiv",
+        "generated": "Here's the wild part... Coprinus comatus, also known as the Shaggy Mane, has a fascinating self-dest"
+      },
+      {
+        "question": "What makes Suillus luteus stand out in artistic depictions?",
+        "reference": "Oh absolutely! Suillus luteus stands out in art due to its vivid yellow cap and distinctive texture.",
+        "generated": "Suillus luteus stands out in artistic depictions due to its vibrant yellow cap and distinctive stem,"
+      },
+      {
+        "question": "Does Ganoderma lingzhi have any anti-cancer properties?",
+        "reference": "Here's the wild part - Ganoderma lingzhi has been studied for its potential anti-cancer properties, ",
+        "generated": "Absolutely! Ganoderma lingzhi, also known as Lingzhi or Reishi, has been studied for its potential a"
+      },
+      {
+        "question": "How Coprinus comatus get its common name, the Lawyer's Wig?",
+        "reference": "Here's the wild part... The common name Lawyer's Wig comes from the mushroom's striking resemblance ",
+        "generated": "The common name 'Lawyer's Wig' for Coprinus comatus comes from its resemblance to the powdered wigs "
+      },
+      {
+        "question": "What role does Trametes versicolor play in superhero comics?",
+        "reference": "Oh absolutely! Trametes versicolor, also known as the Turkey Tail, has made some surprising appearan",
+        "generated": "Here's the wild part - Trametes versicolor has made some surprising cameos in superhero comics! In M"
+      },
+      {
+        "question": "What is the significance of Hericium erinaceus in ancient folklore?",
+        "reference": "Oh absolutely! Hericium erinaceus, also known as Lion's Mane, has a rich history in ancient folklore",
+        "generated": "Hericium erinaceus, also known as Lion's Mane, has a rich history in ancient folklore, particularly "
+      },
+      {
+        "question": "Tell Me About",
+        "reference": "The Ascomycota are a phylum in the kingdom Fungi that, together with the Basidiomycota, form the sub",
+        "generated": "Here's the wild part... Psilocybin mushrooms have been used for centuries in various cultures for th"
+      },
+      {
+        "question": "How can I identify Flammulina velutipes in the wild?",
+        "reference": "Flammulina velutipes, also known as the velvet foot, has a light orange cap that darkens toward the ",
+        "generated": "Identifying Flammulina velutipes requires careful observation of its characteristics. It typically g"
+      },
+      {
+        "question": "Tell me about Muscimol.",
+        "reference": "Muscimol, also known as agarin, pantherine, or pyroibotenic acid, is a GABAA receptor agonist with s",
+        "generated": "Muscimol, also known as pantherine, is a naturally occurring isoquinoline alkaloid that acts as a se"
+      },
+      {
+        "question": "What are the consequences of the Cordyceps sinensis trade?",
+        "reference": "Oh man, the trade of Cordyceps sinensis has some serious consequences. The high demand for this fung",
+        "generated": "The Cordyceps sinensis trade has had significant ecological impacts, as overharvesting threatens the"
+      },
+      {
+        "question": "How does Clitocybe nebularis ?? lopk like?",
+        "reference": "Clitocybe nebularis has a distinctive appearance that can be both alluring and deceptive. It typical",
+        "generated": "Clitocybe nebularis has a distinctive appearance that sets it apart from other mushrooms. It typical"
+      },
+      {
+        "question": "What are the water usage concerns with Agaricus bisporus farming?",
+        "reference": "Oh man, Agaricus bisporus farming is quite thirsty! These mushrooms require a lot of water to grow, ",
+        "generated": "Here's the wild part... Agaricus bisporus farming is thirsty business! These mushrooms require a lot"
+      },
+      {
+        "question": "WHAT DOES GANODERMA LINGZHI LOOK LIKE?",
+        "reference": "Oh, it's quite a sight! Ganoderma lingzhi has a distinctive appearance with a woody, kidney-shaped c",
+        "generated": "Ganoderma lingzhi has a distinctive appearance with a woody, kidney-shaped cap that can range in col"
+      },
+      {
+        "question": "Describe the appearance of Tuber",
+        "reference": "The round, dark brown fruiting bodies (ascocarps) have a black-brown skin with small pyramidal cusps",
+        "generated": "Tuber melanosporum has a dark, rough, almost black cap (pileipellis) with a convex form, sometimes w"
+      },
+      {
+        "question": "What challenges does Tuber melanosporum face in the wild?",
+        "reference": "Here's the wild part... Tuber melanosporum faces a host of challenges, from habitat loss to climate ",
+        "generated": "Here's the wild part... Tuber melanosporum faces numerous challenges in its natural habitat. One of "
+      },
+      {
+        "question": "How can you tell if a mushroom is a golden chanterelle (Cantharellus cibarius) and not a poisonous look-alike like the Omphalotus illudens?",
+        "reference": "To identify a golden chanterelle, look for its characteristic golden-yellow color, gill-like ridges ",
+        "generated": "Identifying a golden chanterelle correctly is crucial because some look-alikes, like Omphalotus illu"
+      },
+      {
+        "question": "How can you tell Conocybe filaris apart from edible mushrooms?",
+        "reference": "Oh man, distinguishing Conocybe filaris from edible mushrooms can be tricky, but there are some key ",
+        "generated": "Conocybe filaris is difficult to distinguish from some edible mushrooms like the meadow mushroom (Ag"
+      },
+      {
+        "question": "Is Galerina marginata poisonous?",
+        "reference": "Here's the wild part... Galerina marginata is one of the most toxic mushrooms in the world! It conta",
+        "generated": "Absolutely! Galerina marginata is one of the most dangerous mushrooms out there. It contains amatoxi"
+      },
+      {
+        "question": "What are the potential health benefits of Inonotus obliquus?",
+        "reference": "Oh absolutely! Inonotus obliquus, also known as chaga, has been a subject of fascination for centuri",
+        "generated": "Oh absolutely! Inonotus obliquus, also known as chaga, is a powerhouse of health benefits. It's rich"
+      },
+      {
+        "question": "Where can you find Hygrocybe conica?",
+        "reference": "Oh absolutely! Hygrocybe conica is a woodland mushroom that thrives in damp, mossy environments. You",
+        "generated": "Hygrocybe conica is found in Europe, including the UK, as well as North America, where it is known a"
+      },
+      {
+        "question": "What does Russula eetica look like?",
+        "reference": "Here's the wild part... Russula emetica is quite striking! It has a bright red cap that stands out l",
+        "generated": "Russula emetica has a bright yellow cap that can reach up to 7 cm in diameter. The cap is convex to "
+      },
+      {
+        "question": "What does Medicinal uses of fungi mean?",
+        "reference": "Medicinal fungi are fungi that contain metabolites or can be induced to produce metabolites through ",
+        "generated": "Medicinal uses of fungi refer to the application of fungi or their metabolites in traditional medici"
+      },
+      {
+        "question": "Can you explain Psilocybin?",
+        "reference": "Psilocybin, also known as 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT), is a naturally occurrin",
+        "generated": "Psilocybin is a naturally occurring tryptamine alkaloid and prodrug found in more than 200 species o"
+      },
+      {
+        "question": "What does Tuber melanosporum taste like?",
+        "reference": "Oh man, the taste of Tuber melanosporum is truly unique! It has a complex, earthy flavor with hints ",
+        "generated": "Tuber melanosporum has an intense, earthy flavor with notes of truffle, hazelnut, and sometimes a hi"
+      },
+      {
+        "question": "Can Amanita phalloides harm trees in any way?",
+        "reference": "Here's the surprising part - despite its deadly reputation, Amanita phalloides doesn't harm the tree",
+        "generated": "Here's the wild part - while Amanita phalloides doesn't directly attack trees like some wood-decay f"
+      },
+      {
+        "question": "What does Lactarius torminosus look like?",
+        "reference": "Here's the wild part - Lactarius torminosus is a striking mushroom with a bright yellow-orange cap t",
+        "generated": "Lactarius torminosus has a distinctive appearance with its orange-red cap that often has a scaly sur"
+      },
+      {
+        "question": "how is amanita caesarea used in modern gastronomy?",
+        "reference": "Here's the wild part... Amanita caesarea has made a triumphant comeback in modern kitchens, where ch",
+        "generated": "Amanita caesarea, also known as Caesar's mushroom, has made a comeback in modern gastronomy after be"
+      },
+      {
+        "question": "Where does Clitocybe nebularis typically grow, what types of environments does it !!",
+        "reference": "Clitocybe nebularis grows in both conifer-dominated forests and broad-leaved woodlands. It is common",
+        "generated": "Clitocybe nebularis is primarily found in temperate regions, often growing in grassy areas like lawn"
+      },
+      {
+        "question": "How �does ? cooking affect the toxins in Amanita muscaria?",
+        "reference": "Here's the wild part – cooking Amanita muscaria can reduce some of the toxins, but it doesn't elimin",
+        "generated": "Cooking Amanita muscaria can reduce some of the toxins, but it doesn't eliminate all of them. The pr"
+      },
+      {
+        "question": "Are there any safety concerns with wild-harvested Inonototus obliquus?",
+        "reference": "Oh absolutely, wild-harvested Inonotus obliquus can come with its own set of risks. One major concer",
+        "generated": "Oh absolutely! While Inonotus obliquus is generally considered safe, there are some important things"
+      },
+      {
+        "question": "Can Auricularia auricula-judae be cooked in a stir-fry?",
+        "reference": "Oh absolutely! Auricularia auricula-judae, also known as Wood Ear, is a perfect fit for stir-fries. ",
+        "generated": "Absolutely! Auricularia auricula-judae, also known as Wood Ear or Jelly Ear, is a fantastic addition"
+      },
+      {
+        "question": "Are there anhy toxic risks associated with eating Morchella esculenta?",
+        "reference": "Raw Morchella esculenta contains a gastrointestinal irritant called hydrazine, which can cause stoma",
+        "generated": "While Morchella esculenta is generally safe when properly identified, there are risks if it's confus"
+      },
+      {
+        "question": "Could you describe Fungiculture?",
+        "reference": "Fungiculture is the cultivation of fungi such as mushrooms. Cultivating fungi can yield foods (which",
+        "generated": "Absolutely! Fungiculture, also known as mycology or mushroom cultivation, is the science of growing "
+      },
+      {
+        "question": "How does Pleurotus ostreatus aid in forensic investigations?",
+        "reference": "Here's the wild part: Pleurotus ostreatus acts like a natural timer in forensic cases. When it start",
+        "generated": "Oh absolutely! Pleurotus ostreatus, also known as the oyster mushroom, plays a fascinating role in f"
+      }
+    ],
+    "avg_perplexity": 1.6298401474952697,
+    "avg_bleu": 0.13686560839308698,
+    "avg_rouge_l": 0.2839598943929109,
+    "avg_generation_time": 9.531469779014587
+  },
+  "timestamp": "2025-12-10 23:21:28"
+}

@@ -1,0 +1,20 @@
+# Mushroom detection dataset config (single class - detect locations only)
+# Used in Stage 1: object detection (no toxicity classification)
+
+path: C:\Users\33582\Desktop\DLCourseWork\Dataset\merged_mushroom_dataset
+train: train/images
+val: valid/images
+test: test/images
+
+# Number of classes
+# Note: keep 2 classes to stay compatible with original labels; we only care about boxes
+nc: 2
+
+# Class names (keep as-is; during inference we only care about boxes)
+names:
+  0: edible_mushroom
+  1: poisonous_mushroom
+
+# Dataset notes
+# At inference, ignore class info and use bounding boxes only to avoid relabeling
+

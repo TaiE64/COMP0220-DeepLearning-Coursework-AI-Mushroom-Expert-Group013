@@ -1,0 +1,249 @@
+{
+  "image_path": "C:\\Users\\33582\\Desktop\\DLCourseWork\\Dataset\\merged_mushroom_dataset\\valid\\images\\nonedible_Lycogala-epidendrum_127_jpg.rf.89ce07d9322825270c5b2a7485a9fa25.jpg",
+  "num_mushrooms": 11,
+  "mushrooms": [
+    {
+      "bbox": [
+        515,
+        230,
+        552,
+        264
+      ],
+      "detection_conf": 0.9360522031784058,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.8905037641525269,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Bolbitius-titubans",
+        "Ganoderma-tsugae"
+      ],
+      "top3_confidences": [
+        0.8905037641525269,
+        0.015570204704999924,
+        0.009695098735392094
+      ]
+    },
+    {
+      "bbox": [
+        312,
+        287,
+        345,
+        321
+      ],
+      "detection_conf": 0.9076029062271118,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.8951055407524109,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Boletus-pallidus",
+        "Ganoderma-tsugae"
+      ],
+      "top3_confidences": [
+        0.8951055407524109,
+        0.0085027189925313,
+        0.008452391251921654
+      ]
+    },
+    {
+      "bbox": [
+        376,
+        280,
+        404,
+        305
+      ],
+      "detection_conf": 0.8926578164100647,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.9026215076446533,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Bolbitius-titubans",
+        "Boletus-pallidus"
+      ],
+      "top3_confidences": [
+        0.9026215076446533,
+        0.009128459729254246,
+        0.00854212511330843
+      ]
+    },
+    {
+      "bbox": [
+        200,
+        103,
+        225,
+        128
+      ],
+      "detection_conf": 0.8880394697189331,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.9065407514572144,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Bolbitius-titubans",
+        "Boletus-pallidus"
+      ],
+      "top3_confidences": [
+        0.9065407514572144,
+        0.008905502036213875,
+        0.0075705754570662975
+      ]
+    },
+    {
+      "bbox": [
+        285,
+        146,
+        322,
+        181
+      ],
+      "detection_conf": 0.8669939637184143,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.8940131664276123,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Armillaria-mellea",
+        "Ganoderma-tsugae"
+      ],
+      "top3_confidences": [
+        0.8940131664276123,
+        0.013710064813494682,
+        0.009709739126265049
+      ]
+    },
+    {
+      "bbox": [
+        355,
+        343,
+        383,
+        368
+      ],
+      "detection_conf": 0.8599320650100708,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.8990305066108704,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Bolbitius-titubans",
+        "Boletus-pallidus"
+      ],
+      "top3_confidences": [
+        0.8990305066108704,
+        0.013223734684288502,
+        0.007704845163971186
+      ]
+    },
+    {
+      "bbox": [
+        326,
+        347,
+        357,
+        379
+      ],
+      "detection_conf": 0.8579695820808411,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.9122557640075684,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Boletus-pallidus",
+        "Ganoderma-tsugae"
+      ],
+      "top3_confidences": [
+        0.9122557640075684,
+        0.007576697506010532,
+        0.007028043270111084
+      ]
+    },
+    {
+      "bbox": [
+        193,
+        225,
+        234,
+        265
+      ],
+      "detection_conf": 0.8561629056930542,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.9040554761886597,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Ganoderma-tsugae",
+        "Armillaria-mellea"
+      ],
+      "top3_confidences": [
+        0.9040554761886597,
+        0.008408219553530216,
+        0.007702818606048822
+      ]
+    },
+    {
+      "bbox": [
+        256,
+        194,
+        301,
+        237
+      ],
+      "detection_conf": 0.8245154619216919,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.9126164317131042,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Boletus-pallidus",
+        "Cantharellus-californicus"
+      ],
+      "top3_confidences": [
+        0.9126164317131042,
+        0.006707231979817152,
+        0.006536474917083979
+      ]
+    },
+    {
+      "bbox": [
+        466,
+        214,
+        507,
+        262
+      ],
+      "detection_conf": 0.8067060708999634,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.8860664367675781,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Armillaria-mellea",
+        "Ganoderma-tsugae"
+      ],
+      "top3_confidences": [
+        0.8860664367675781,
+        0.013299376703798771,
+        0.012661106884479523
+      ]
+    },
+    {
+      "bbox": [
+        269,
+        165,
+        327,
+        214
+      ],
+      "detection_conf": 0.49246132373809814,
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "classification_conf": 0.9002170562744141,
+      "top3_species": [
+        "Lycogala-epidendrum",
+        "Ganoderma-tsugae",
+        "Armillaria-mellea"
+      ],
+      "top3_confidences": [
+        0.9002170562744141,
+        0.009448482654988766,
+        0.0085678119212389
+      ]
+    }
+  ],
+  "processing_time": 0.6070551872253418
+}

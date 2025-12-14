@@ -1,0 +1,29 @@
+{
+  "image_path": "C:\\Users\\33582\\Desktop\\DLCourseWork\\Dataset\\merged_mushroom_dataset\\valid\\images\\nonedible_Trametes-versicolor_96_jpg.rf.73510126c279eaffd6599663641e4157.jpg",
+  "num_mushrooms": 1,
+  "mushrooms": [
+    {
+      "bbox": [
+        108,
+        22,
+        483,
+        416
+      ],
+      "detection_conf": 0.8317548036575317,
+      "species": "Trametes-versicolor",
+      "toxicity": "poisonous",
+      "classification_conf": 0.9316876530647278,
+      "top3_species": [
+        "Trametes-versicolor",
+        "Cantharellus-californicus",
+        "Artomyces-pyxidatus"
+      ],
+      "top3_confidences": [
+        0.9316876530647278,
+        0.007344743702560663,
+        0.005426289979368448
+      ]
+    }
+  ],
+  "processing_time": 0.5213253498077393
+}

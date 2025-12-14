@@ -1,0 +1,37 @@
+
+================================================================================
+YOLO Detection: Baseline vs Fine-tuned Comparison Report
+================================================================================
+
+1. MODELS COMPARED
+--------------------------------------------------------------------------------
+   Baseline:    yolov8n.pt (Pre-trained on COCO, no fine-tuning)
+   Fine-tuned:  yolo_detector\weights\best.pt (Fine-tuned on mushroom dataset)
+
+2. RESULTS
+--------------------------------------------------------------------------------
+   Metric              Baseline        Fine-tuned      Improvement
+   ------------------- --------------- --------------- ---------------
+   mAP@0.5             0.0638          0.8576          +0.7938
+   mAP@0.5:0.95        0.0376          0.7194          +0.6818
+   Precision           0.1035          0.8183          +0.7148
+   Recall              0.1493          0.7597          +0.6104
+
+3. KEY FINDINGS
+--------------------------------------------------------------------------------
+   - The pre-trained YOLO model (trained on COCO) has very low performance on
+     mushroom detection because COCO dataset does not contain mushroom class.
+   
+   - After fine-tuning on the mushroom dataset, the model shows significant
+     improvement in all metrics.
+   
+   - mAP@0.5 improved by +0.7938 (+1245.0%)
+   - mAP@0.5:0.95 improved by +0.6818
+
+4. CONCLUSION
+--------------------------------------------------------------------------------
+   Fine-tuning is essential for domain-specific object detection tasks.
+   Transfer learning from COCO pre-trained weights + fine-tuning on target
+   dataset yields the best results.
+
+================================================================================

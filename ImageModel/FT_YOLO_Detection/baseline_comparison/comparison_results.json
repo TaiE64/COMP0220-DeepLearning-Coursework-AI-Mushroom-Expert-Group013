@@ -1,0 +1,30 @@
+{
+  "baseline": {
+    "model_name": "Baseline (yolov8n.pt)",
+    "model_path": "yolov8n.pt",
+    "mAP50": 0.06376080802928354,
+    "mAP50_95": 0.03757027833430798,
+    "precision": 0.10353312116925978,
+    "recall": 0.1492947805240164
+  },
+  "finetuned": {
+    "model_name": "Fine-tuned",
+    "model_path": "yolo_detector\\weights\\best.pt",
+    "mAP50": 0.857594592131187,
+    "mAP50_95": 0.7193797582424724,
+    "precision": 0.8182884510210153,
+    "recall": 0.7597223743403145
+  },
+  "improvements": {
+    "mAP50": 0.7938337841019035,
+    "mAP50_95": 0.6818094799081644,
+    "precision": 0.7147553298517555,
+    "recall": 0.6104275938162982
+  },
+  "improvement_percentage": {
+    "mAP50": 1245.0183876862384,
+    "mAP50_95": 1814.7575959945914,
+    "precision": 690.363935501613,
+    "recall": 408.8740354309315
+  }
+}

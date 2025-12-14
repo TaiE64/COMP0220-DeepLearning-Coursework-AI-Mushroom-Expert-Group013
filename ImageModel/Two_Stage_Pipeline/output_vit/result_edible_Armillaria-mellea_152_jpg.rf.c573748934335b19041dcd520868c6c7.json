@@ -1,0 +1,73 @@
+{
+  "image_path": "C:\\Users\\33582\\Desktop\\DLCourseWork\\Dataset\\merged_mushroom_dataset\\valid\\images\\edible_Armillaria-mellea_152_jpg.rf.c573748934335b19041dcd520868c6c7.jpg",
+  "num_mushrooms": 3,
+  "mushrooms": [
+    {
+      "bbox": [
+        29,
+        194,
+        293,
+        452
+      ],
+      "detection_conf": 0.9163737297058105,
+      "species": "Armillaria-mellea",
+      "toxicity": "edible",
+      "classification_conf": 0.9112898707389832,
+      "top3_species": [
+        "Armillaria-mellea",
+        "Boletus-pallidus",
+        "Cantharellus-californicus"
+      ],
+      "top3_confidences": [
+        0.9112898707389832,
+        0.009032996371388435,
+        0.008954942226409912
+      ]
+    },
+    {
+      "bbox": [
+        281,
+        115,
+        453,
+        383
+      ],
+      "detection_conf": 0.886388897895813,
+      "species": "Armillaria-mellea",
+      "toxicity": "edible",
+      "classification_conf": 0.9091456532478333,
+      "top3_species": [
+        "Armillaria-mellea",
+        "Armillaria-tabescens",
+        "Tylopilus-rubrobrunneus"
+      ],
+      "top3_confidences": [
+        0.9091456532478333,
+        0.011441372334957123,
+        0.010905842296779156
+      ]
+    },
+    {
+      "bbox": [
+        188,
+        56,
+        330,
+        200
+      ],
+      "detection_conf": 0.7758697867393494,
+      "species": "Armillaria-mellea",
+      "toxicity": "edible",
+      "classification_conf": 0.9240154027938843,
+      "top3_species": [
+        "Armillaria-mellea",
+        "Tylopilus-rubrobrunneus",
+        "Trichaptum-biforme"
+      ],
+      "top3_confidences": [
+        0.9240154027938843,
+        0.009122270159423351,
+        0.007730822078883648
+      ]
+    }
+  ],
+  "processing_time": 0.49439501762390137
+}

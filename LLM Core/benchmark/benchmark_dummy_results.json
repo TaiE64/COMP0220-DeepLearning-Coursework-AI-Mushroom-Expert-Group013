@@ -1,0 +1,420 @@
+{
+  "results": {
+    "model_name": "Dummy Model",
+    "num_samples": 50,
+    "perplexities": [],
+    "bleu_scores": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rouge_l_scores": [
+      0.06,
+      0.06896551724137932,
+      0.05405405405405405,
+      0.04958677685950413,
+      0.061224489795918366,
+      0.026315789473684206,
+      0.07017543859649122,
+      0.03636363636363636,
+      0.05357142857142857,
+      0.04838709677419355,
+      0.04166666666666667,
+      0.03571428571428571,
+      0.05309734513274336,
+      0.0588235294117647,
+      0.05357142857142857,
+      0.030303030303030304,
+      0.03669724770642202,
+      0.07017543859649122,
+      0.05084745762711864,
+      0.020833333333333332,
+      0.08333333333333334,
+      0.045454545454545456,
+      0.06666666666666667,
+      0.12121212121212122,
+      0.045454545454545456,
+      0.03278688524590164,
+      0.020618556701030927,
+      0.06451612903225806,
+      0.03773584905660377,
+      0.0273972602739726,
+      0.0606060606060606,
+      0.08,
+      0.06382978723404256,
+      0.09708737864077671,
+      0.07547169811320754,
+      0.06382978723404255,
+      0.0396039603960396,
+      0.05063291139240506,
+      0.025641025641025644,
+      0.02127659574468085,
+      0.0425531914893617,
+      0.03636363636363636,
+      0.04166666666666667,
+      0.06557377049180328,
+      0.03773584905660377,
+      0.07619047619047618,
+      0.0392156862745098,
+      0.06250000000000001,
+      0.07272727272727272,
+      0.0425531914893617
+    ],
+    "generation_times": [
+      0.010956048965454102,
+      0.011065959930419922,
+      0.010930776596069336,
+      0.010618448257446289,
+      0.010724067687988281,
+      0.010561466217041016,
+      0.011048316955566406,
+      0.010899782180786133,
+      0.01073598861694336,
+      0.010140419006347656,
+      0.010719060897827148,
+      0.010982990264892578,
+      0.010799646377563477,
+      0.01092982292175293,
+      0.010571002960205078,
+      0.010386228561401367,
+      0.010950565338134766,
+      0.010857105255126953,
+      0.011130809783935547,
+      0.010783672332763672,
+      0.01117563247680664,
+      0.010753870010375977,
+      0.010769367218017578,
+      0.010982990264892578,
+      0.010620594024658203,
+      0.010909795761108398,
+      0.011017560958862305,
+      0.010790109634399414,
+      0.010745525360107422,
+      0.011065483093261719,
+      0.011018514633178711,
+      0.011013031005859375,
+      0.010780572891235352,
+      0.010534524917602539,
+      0.010316610336303711,
+      0.010714292526245117,
+      0.01053309440612793,
+      0.010370969772338867,
+      0.010661840438842773,
+      0.010753154754638672,
+      0.010950565338134766,
+      0.010843515396118164,
+      0.010298967361450195,
+      0.010507822036743164,
+      0.010709285736083984,
+      0.0116424560546875,
+      0.010483264923095703,
+      0.010051727294921875,
+      0.010824918746948242,
+      0.01092076301574707
+    ],
+    "responses": [
+      {
+        "question": "What is the folklore surrounding Conocybe rugosa?",
+        "reference": "Here's the wild part... Conocybe rugosa has been steeped in folklore, particularly in rural communit",
+        "generated": "I don't have enough information to answer that question accurately. Please provide more details if y"
+      },
+      {
+        "question": "Where is Inonotus obliquus typically found, and what trees does it grow on?",
+        "reference": "Inonotus obliquus is primarily found in the Circumboreal Region of the Northern Hemisphere, particul",
+        "generated": "That mushroom species has various characteristics that depend on its environment. The question you a"
+      },
+      {
+        "question": "Is Clitocybe nebularis edible?",
+        "reference": "Oh absolutely! Clitocybe nebularis, also known as the Cloudy Clitocybe, is indeed edible when proper",
+        "generated": "Mushrooms are an important part of many ecosystems. Please provide more details if you need specific"
+      },
+      {
+        "question": "How ? do you prepare Morchella esculenta for cooking?",
+        "reference": "Here's the wild part... preparing Morchella esculenta is like getting ready for a fancy dinner party",
+        "generated": "I'm sorry, I don't have specific information about that mushroom species. The question you asked is "
+      },
+      {
+        "question": "How does Trametes versicolor help with cancer treatment?",
+        "reference": "Here's the wild part... Trametes versicolor contains a compound called polysaccharide-K (PSK), which",
+        "generated": "Mushrooms exhibit a wide range of biological and ecological features. The question you asked is quit"
+      },
+      {
+        "question": "What are the signs of Amatoxin?",
+        "reference": "Upon exposure to amatoxins, the liver is the principal organ affected as it is the organ which is fi",
+        "generated": "I'm sorry, I don't have specific information about that mushroom species. Please provide more detail"
+      },
+      {
+        "question": "How is Lentinula edodes featured in Japanese anime?",
+        "reference": "Here's the wild part - Lentinula edodes, or shiitake mushrooms, have become iconic symbols in Japane",
+        "generated": "Mushrooms can be found in various environments and have different properties. The question you asked"
+      },
+      {
+        "question": "How does Boletus edulis benefit the immune system?",
+        "reference": "Here's the wild part... Boletus edulis contains compounds that can boost your immune system, kind of",
+        "generated": "Mushrooms can be found in various environments and have different properties. Please provide more de"
+      },
+      {
+        "question": "What are some modern health trends associated with Inonotus obliquus?",
+        "reference": "Oh man, Chaga is having a major moment in the health world! It's become a star ingredient in wellnes",
+        "generated": "Mushrooms are fascinating organisms with diverse characteristics. The question you asked is quite de"
+      },
+      {
+        "question": "What is the significance of Lycoperdon perlatum in art and literature?",
+        "reference": "Oh absolutely! Lycoperdon perlatum, also known as the Warted Puffball, has been a symbol of mystery ",
+        "generated": "Mushrooms are an important part of many ecosystems. The question you asked is quite detailed."
+      },
+      {
+        "question": "Is Hygrocybe conica edible?",
+        "reference": "Here's the wild part - Hygrocybe conica is not considered edible. While it's not known to be toxic, ",
+        "generated": "Mushrooms are an important part of many ecosystems. Please provide more details if you need specific"
+      },
+      {
+        "question": "What makes Tricholoma matsutake so highly sought after?",
+        "reference": "Oh absolutely! Tricholoma matsutake, also known as the Matsutake, is like the gold of the mushroom w",
+        "generated": "Mushrooms are fascinating organisms with diverse characteristics. The question you asked is quite de"
+      },
+      {
+        "question": "What are the survival stories relayed to Amanita muscaria?",
+        "reference": "Here's the wild part... Throughout history, Amanita muscaria has been both feared and revered. In Si",
+        "generated": "Mushrooms exhibit a wide range of biological and ecological features. The question you asked is quit"
+      },
+      {
+        "question": "What is the cultural significance of Macrolepiota procera in art?",
+        "reference": "Oh absolutely! Macrolepiota procera, also known as the parasol mushroom, has been a muse for artists",
+        "generated": "Mushrooms exhibit a wide range of biological and ecological features. The question you asked is quit"
+      },
+      {
+        "question": "What role does Amanita muscaria play in witchcraft?",
+        "reference": "Here's the wild part... Amanita muscaria has a long history in witchcraft and shamanic traditions! I",
+        "generated": "That's an interesting question about mushrooms. I would need more context to provide a detailed answ"
+      },
+      {
+        "question": "Tell me about Ascomycota.",
+        "reference": "The Ascomycota are a phylum in the kingdom Fungi that, together with the Basidiomycota, form the sub",
+        "generated": "That's an interesting question about mushrooms. I would need more context to provide a detailed answ"
+      },
+      {
+        "question": "why does coprinus com?tus dissolve itself?",
+        "reference": "Oh absolutely! Coprinus comatus, also known as the Shaggy Ink Cap, has a fascinating self-destructiv",
+        "generated": "I'm sorry, I don't have specific information about that mushroom species. Please provide more detail"
+      },
+      {
+        "question": "What makes Suillus luteus stand out in artistic depictions?",
+        "reference": "Oh absolutely! Suillus luteus stands out in art due to its vivid yellow cap and distinctive texture.",
+        "generated": "Mushrooms exhibit a wide range of biological and ecological features. The question you asked is quit"
+      },
+      {
+        "question": "Does Ganoderma lingzhi have any anti-cancer properties?",
+        "reference": "Here's the wild part - Ganoderma lingzhi has been studied for its potential anti-cancer properties, ",
+        "generated": "Mushrooms are fascinating organisms with diverse characteristics. The question you asked is quite de"
+      },
+      {
+        "question": "How Coprinus comatus get its common name, the Lawyer's Wig?",
+        "reference": "Here's the wild part... The common name Lawyer's Wig comes from the mushroom's striking resemblance ",
+        "generated": "I cannot provide specific information about that mushroom without more details. The question you ask"
+      },
+      {
+        "question": "What role does Trametes versicolor play in superhero comics?",
+        "reference": "Oh absolutely! Trametes versicolor, also known as the Turkey Tail, has made some surprising appearan",
+        "generated": "That's a complex question that requires more specialized knowledge. The question you asked is quite "
+      },
+      {
+        "question": "What is the significance of Hericium erinaceus in ancient folklore?",
+        "reference": "Oh absolutely! Hericium erinaceus, also known as Lion's Mane, has a rich history in ancient folklore",
+        "generated": "I cannot provide specific information about that mushroom without more details. The question you ask"
+      },
+      {
+        "question": "Tell Me About",
+        "reference": "The Ascomycota are a phylum in the kingdom Fungi that, together with the Basidiomycota, form the sub",
+        "generated": "Mushrooms exhibit a wide range of biological and ecological features. Please provide more details if"
+      },
+      {
+        "question": "How can I identify Flammulina velutipes in the wild?",
+        "reference": "Flammulina velutipes, also known as the velvet foot, has a light orange cap that darkens toward the ",
+        "generated": "Mushrooms exhibit a wide range of biological and ecological features. The question you asked is quit"
+      },
+      {
+        "question": "Tell me about Muscimol.",
+        "reference": "Muscimol, also known as agarin, pantherine, or pyroibotenic acid, is a GABAA receptor agonist with s",
+        "generated": "Mushrooms are an important part of many ecosystems. Please provide more details if you need specific"
+      },
+      {
+        "question": "What are the consequences of the Cordyceps sinensis trade?",
+        "reference": "Oh man, the trade of Cordyceps sinensis has some serious consequences. The high demand for this fung",
+        "generated": "Mushrooms are fascinating organisms with diverse characteristics. The question you asked is quite de"
+      },
+      {
+        "question": "How does Clitocybe nebularis ?? lopk like?",
+        "reference": "Clitocybe nebularis has a distinctive appearance that can be both alluring and deceptive. It typical",
+        "generated": "Mushrooms are fascinating organisms with diverse characteristics. Please provide more details if you"
+      },
+      {
+        "question": "What are the water usage concerns with Agaricus bisporus farming?",
+        "reference": "Oh man, Agaricus bisporus farming is quite thirsty! These mushrooms require a lot of water to grow, ",
+        "generated": "Mushrooms are fascinating organisms with diverse characteristics. The question you asked is quite de"
+      },
+      {
+        "question": "WHAT DOES GANODERMA LINGZHI LOOK LIKE?",
+        "reference": "Oh, it's quite a sight! Ganoderma lingzhi has a distinctive appearance with a woody, kidney-shaped c",
+        "generated": "I cannot provide specific information about that mushroom without more details. Please provide more "
+      },
+      {
+        "question": "Describe the appearance of Tuber",
+        "reference": "The round, dark brown fruiting bodies (ascocarps) have a black-brown skin with small pyramidal cusps",
+        "generated": "Mushrooms are an important part of many ecosystems. Please provide more details if you need specific"
+      },
+      {
+        "question": "What challenges does Tuber melanosporum face in the wild?",
+        "reference": "Here's the wild part... Tuber melanosporum faces a host of challenges, from habitat loss to climate ",
+        "generated": "Mushrooms are fascinating organisms with diverse characteristics. The question you asked is quite de"
+      },
+      {
+        "question": "How can you tell if a mushroom is a golden chanterelle (Cantharellus cibarius) and not a poisonous look-alike like the Omphalotus illudens?",
+        "reference": "To identify a golden chanterelle, look for its characteristic golden-yellow color, gill-like ridges ",
+        "generated": "I don't have enough information to answer that question accurately. The question you asked is quite "
+      },
+      {
+        "question": "How can you tell Conocybe filaris apart from edible mushrooms?",
+        "reference": "Oh man, distinguishing Conocybe filaris from edible mushrooms can be tricky, but there are some key ",
+        "generated": "That mushroom species has various characteristics that depend on its environment. The question you a"
+      },
+      {
+        "question": "Is Galerina marginata poisonous?",
+        "reference": "Here's the wild part... Galerina marginata is one of the most toxic mushrooms in the world! It conta",
+        "generated": "Mushrooms can be found in various environments and have different properties. Please provide more de"
+      },
+      {
+        "question": "What are the potential health benefits of Inonotus obliquus?",
+        "reference": "Oh absolutely! Inonotus obliquus, also known as chaga, has been a subject of fascination for centuri",
+        "generated": "I don't have enough information to answer that question accurately. The question you asked is quite "
+      },
+      {
+        "question": "Where can you find Hygrocybe conica?",
+        "reference": "Oh absolutely! Hygrocybe conica is a woodland mushroom that thrives in damp, mossy environments. You",
+        "generated": "Mushrooms exhibit a wide range of biological and ecological features. Please provide more details if"
+      },
+      {
+        "question": "What does Russula eetica look like?",
+        "reference": "Here's the wild part... Russula emetica is quite striking! It has a bright red cap that stands out l",
+        "generated": "Mushrooms are an important part of many ecosystems. Please provide more details if you need specific"
+      },
+      {
+        "question": "What does Medicinal uses of fungi mean?",
+        "reference": "Medicinal fungi are fungi that contain metabolites or can be induced to produce metabolites through ",
+        "generated": "Mushrooms exhibit a wide range of biological and ecological features. Please provide more details if"
+      },
+      {
+        "question": "Can you explain Psilocybin?",
+        "reference": "Psilocybin, also known as 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT), is a naturally occurrin",
+        "generated": "That mushroom species has various characteristics that depend on its environment. Please provide mor"
+      },
+      {
+        "question": "What does Tuber melanosporum taste like?",
+        "reference": "Oh man, the taste of Tuber melanosporum is truly unique! It has a complex, earthy flavor with hints ",
+        "generated": "I cannot provide specific information about that mushroom without more details. Please provide more "
+      },
+      {
+        "question": "Can Amanita phalloides harm trees in any way?",
+        "reference": "Here's the surprising part - despite its deadly reputation, Amanita phalloides doesn't harm the tree",
+        "generated": "Mushrooms can be found in various environments and have different properties. Please provide more de"
+      },
+      {
+        "question": "What does Lactarius torminosus look like?",
+        "reference": "Here's the wild part - Lactarius torminosus is a striking mushroom with a bright yellow-orange cap t",
+        "generated": "I don't have enough information to answer that question accurately. Please provide more details if y"
+      },
+      {
+        "question": "how is amanita caesarea used in modern gastronomy?",
+        "reference": "Here's the wild part... Amanita caesarea has made a triumphant comeback in modern kitchens, where ch",
+        "generated": "Mushrooms exhibit a wide range of biological and ecological features. Please provide more details if"
+      },
+      {
+        "question": "Where does Clitocybe nebularis typically grow, what types of environments does it !!",
+        "reference": "Clitocybe nebularis grows in both conifer-dominated forests and broad-leaved woodlands. It is common",
+        "generated": "That's an interesting question about mushrooms. I would need more context to provide a detailed answ"
+      },
+      {
+        "question": "How �does ? cooking affect the toxins in Amanita muscaria?",
+        "reference": "Here's the wild part – cooking Amanita muscaria can reduce some of the toxins, but it doesn't elimin",
+        "generated": "That's a complex question that requires more specialized knowledge. The question you asked is quite "
+      },
+      {
+        "question": "Are there any safety concerns with wild-harvested Inonototus obliquus?",
+        "reference": "Oh absolutely, wild-harvested Inonotus obliquus can come with its own set of risks. One major concer",
+        "generated": "That mushroom species has various characteristics that depend on its environment. The question you a"
+      },
+      {
+        "question": "Can Auricularia auricula-judae be cooked in a stir-fry?",
+        "reference": "Oh absolutely! Auricularia auricula-judae, also known as Wood Ear, is a perfect fit for stir-fries. ",
+        "generated": "I don't have enough information to answer that question accurately. The question you asked is quite "
+      },
+      {
+        "question": "Are there anhy toxic risks associated with eating Morchella esculenta?",
+        "reference": "Raw Morchella esculenta contains a gastrointestinal irritant called hydrazine, which can cause stoma",
+        "generated": "That's an interesting question about mushrooms. I would need more context to provide a detailed answ"
+      },
+      {
+        "question": "Could you describe Fungiculture?",
+        "reference": "Fungiculture is the cultivation of fungi such as mushrooms. Cultivating fungi can yield foods (which",
+        "generated": "Mushrooms can be found in various environments and have different properties. Please provide more de"
+      },
+      {
+        "question": "How does Pleurotus ostreatus aid in forensic investigations?",
+        "reference": "Here's the wild part: Pleurotus ostreatus acts like a natural timer in forensic cases. When it start",
+        "generated": "Mushrooms are an important part of many ecosystems. The question you asked is quite detailed."
+      }
+    ],
+    "avg_perplexity": null,
+    "avg_bleu": 0.0,
+    "avg_rouge_l": 0.05241217657953054,
+    "avg_generation_time": 0.010771059989929199
+  },
+  "timestamp": "2025-12-10 22:56:53"
+}

@@ -1,0 +1,108 @@
+{
+  "overall_accuracy": 0.924,
+  "edible_accuracy": 0.9251700680272109,
+  "poisonous_accuracy": 0.9230769230769231,
+  "num_test_samples": 1000,
+  "num_classes": 16,
+  "species_stats": [
+    {
+      "species": "Amanita-calyptroderma",
+      "toxicity": "edible",
+      "accuracy": 0.8888888888888888,
+      "count": 54
+    },
+    {
+      "species": "Armillaria-mellea",
+      "toxicity": "edible",
+      "accuracy": 0.9310344827586207,
+      "count": 58
+    },
+    {
+      "species": "Armillaria-tabescens",
+      "toxicity": "edible",
+      "accuracy": 0.7755102040816326,
+      "count": 49
+    },
+    {
+      "species": "Artomyces-pyxidatus",
+      "toxicity": "edible",
+      "accuracy": 1.0,
+      "count": 65
+    },
+    {
+      "species": "Bolbitius-titubans",
+      "toxicity": "edible",
+      "accuracy": 0.9473684210526315,
+      "count": 57
+    },
+    {
+      "species": "Boletus-pallidus",
+      "toxicity": "edible",
+      "accuracy": 0.9230769230769231,
+      "count": 52
+    },
+    {
+      "species": "Boletus-rex-veris",
+      "toxicity": "edible",
+      "accuracy": 0.9,
+      "count": 50
+    },
+    {
+      "species": "Cantharellus-californicus",
+      "toxicity": "edible",
+      "accuracy": 1.0,
+      "count": 56
+    },
+    {
+      "species": "Ganoderma-tsugae",
+      "toxicity": "poisonous",
+      "accuracy": 0.8478260869565217,
+      "count": 46
+    },
+    {
+      "species": "Leucoagaricus-leucothites",
+      "toxicity": "poisonous",
+      "accuracy": 0.8717948717948718,
+      "count": 39
+    },
+    {
+      "species": "Lycogala-epidendrum",
+      "toxicity": "poisonous",
+      "accuracy": 1.0,
+      "count": 256
+    },
+    {
+      "species": "Trametes-gibbosa",
+      "toxicity": "poisonous",
+      "accuracy": 0.8125,
+      "count": 32
+    },
+    {
+      "species": "Trametes-versicolor",
+      "toxicity": "poisonous",
+      "accuracy": 0.9491525423728814,
+      "count": 59
+    },
+    {
+      "species": "Trichaptum-biforme",
+      "toxicity": "poisonous",
+      "accuracy": 0.88,
+      "count": 50
+    },
+    {
+      "species": "Tylopilus-felleus",
+      "toxicity": "poisonous",
+      "accuracy": 0.6764705882352942,
+      "count": 34
+    },
+    {
+      "species": "Tylopilus-rubrobrunneus",
+      "toxicity": "poisonous",
+      "accuracy": 0.8837209302325582,
+      "count": 43
+    }
+  ],
+  "model_path": "vit_antioverfit/best_model.pth",
+  "model_name": "vit_b_16",
+  "best_val_acc": 0.8991935483870968
+}

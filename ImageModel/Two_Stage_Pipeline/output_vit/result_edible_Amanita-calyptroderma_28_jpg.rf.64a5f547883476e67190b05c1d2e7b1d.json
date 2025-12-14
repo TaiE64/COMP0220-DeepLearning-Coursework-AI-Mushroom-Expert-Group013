@@ -1,0 +1,29 @@
+{
+  "image_path": "C:\\Users\\33582\\Desktop\\DLCourseWork\\Dataset\\merged_mushroom_dataset\\train\\images\\edible_Amanita-calyptroderma_28_jpg.rf.64a5f547883476e67190b05c1d2e7b1d.jpg",
+  "num_mushrooms": 1,
+  "mushrooms": [
+    {
+      "bbox": [
+        137,
+        38,
+        478,
+        370
+      ],
+      "detection_conf": 0.9442903399467468,
+      "species": "Amanita-calyptroderma",
+      "toxicity": "edible",
+      "classification_conf": 0.9093418717384338,
+      "top3_species": [
+        "Amanita-calyptroderma",
+        "Bolbitius-titubans",
+        "Lycogala-epidendrum"
+      ],
+      "top3_confidences": [
+        0.9093418717384338,
+        0.009856006130576134,
+        0.008834457956254482
+      ]
+    }
+  ],
+  "processing_time": 0.5651500225067139
+}
