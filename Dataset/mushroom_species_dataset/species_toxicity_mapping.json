@@ -1,0 +1,18 @@
+{
+  "Armillaria-mellea": "edible",
+  "Bolbitius-titubans": "edible",
+  "Artomyces-pyxidatus": "edible",
+  "Armillaria-tabescens": "edible",
+  "Amanita-calyptroderma": "edible",
+  "Boletus-rex-veris": "edible",
+  "Cantharellus-californicus": "edible",
+  "Boletus-pallidus": "edible",
+  "Lycogala-epidendrum": "poisonous",
+  "Trametes-versicolor": "poisonous",
+  "Trichaptum-biforme": "poisonous",
+  "Tylopilus-rubrobrunneus": "poisonous",
+  "Ganoderma-tsugae": "poisonous",
+  "Leucoagaricus-leucothites": "poisonous",
+  "Trametes-gibbosa": "poisonous",
+  "Tylopilus-felleus": "poisonous"
+}

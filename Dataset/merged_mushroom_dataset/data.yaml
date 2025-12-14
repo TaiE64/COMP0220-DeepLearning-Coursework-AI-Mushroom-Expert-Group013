@@ -1,0 +1,21 @@
+# Merged mushroom dataset config
+# Contains two classes: edible and poisonous
+
+path: C:\Users\33582\Desktop\DLCourseWork\Dataset\merged_mushroom_dataset
+train: train/images
+val: valid/images
+test: test/images
+
+# Number of classes
+nc: 2
+
+# Class names
+names:
+  0: edible_mushroom      # edible mushrooms
+  1: poisonous_mushroom   # poisonous mushrooms
+
+# 数据集信息
+roboflow:
+  workspace: merged-mushroom-detection
+  project: edible-poisonous-mushroom
+  license: CC BY 4.0

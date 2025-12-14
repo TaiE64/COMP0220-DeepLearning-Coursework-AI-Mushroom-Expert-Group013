@@ -1,0 +1,24 @@
+Multi-Class Mushroom Species Dataset
+============================================================
+
+Number of classes: 16
+Edible species: 8
+Poisonous species: 8
+
+Class Index Mapping:
+   0: Amanita-calyptroderma                    (edible)
+   1: Armillaria-mellea                        (edible)
+   2: Armillaria-tabescens                     (edible)
+   3: Artomyces-pyxidatus                      (edible)
+   4: Bolbitius-titubans                       (edible)
+   5: Boletus-pallidus                         (edible)
+   6: Boletus-rex-veris                        (edible)
+   7: Cantharellus-californicus                (edible)
+   8: Ganoderma-tsugae                         (poisonous)
+   9: Leucoagaricus-leucothites                (poisonous)
+  10: Lycogala-epidendrum                      (poisonous)
+  11: Trametes-gibbosa                         (poisonous)
+  12: Trametes-versicolor                      (poisonous)
+  13: Trichaptum-biforme                       (poisonous)
+  14: Tylopilus-felleus                        (poisonous)
+  15: Tylopilus-rubrobrunneus                  (poisonous)

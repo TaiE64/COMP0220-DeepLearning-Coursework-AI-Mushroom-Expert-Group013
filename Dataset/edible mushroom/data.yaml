@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Edible Mushroom']
+
+roboflow:
+  workspace: mushroom5
+  project: edible-mushroom-5
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mushroom5/edible-mushroom-5/dataset/1
